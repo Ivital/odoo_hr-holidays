@@ -33,3 +33,38 @@ msgstr "Повторювати кожні"
 #: model:ir.model.fields,field_description:hr_holidays_leave_repeated.field_hr_leave__repeat_mode
 msgid "Repeat Mode"
 msgstr "Режим повторення"
+
+#. module: hr_holidays_leave_repeated
+#: model:ir.model.fields.selection,name:hr_holidays_leave_repeated.selection__hr_leave__repeat_every__month
+msgid "Every four weeks"
+msgstr "Кожні чотири тижні"
+
+#. module: hr_holidays_leave_repeated
+#: model:ir.model.fields.selection,name:hr_holidays_leave_repeated.selection__hr_leave__repeat_every__biweek
+msgid "Every two weeks"
+msgstr "Кожні два тижні"
+
+#. module: hr_holidays_leave_repeated
+#: model:ir.model.fields.selection,name:hr_holidays_leave_repeated.selection__hr_leave__repeat_every__week
+msgid "Every week"
+msgstr "Щотижня"
+
+#. module: hr_holidays_leave_repeated
+#: model:ir.model.fields.selection,name:hr_holidays_leave_repeated.selection__hr_leave__repeat_every__workday
+msgid "Every workday"
+msgstr "Щодня в робочі дні"
+
+#. module: hr_holidays_leave_repeated
+#: model:ir.model.fields.selection,name:hr_holidays_leave_repeated.selection__hr_leave__repeat_mode__times
+msgid "Number of Times"
+msgstr "Кількість разів"
+
+#. module: hr_holidays_leave_repeated
+#: model:ir.model.fields,field_description:hr_holidays_leave_repeated.field_hr_leave__repeat_limit
+msgid "Repeat # times"
+msgstr "Кількість повторів"
+
+#. module: hr_holidays_leave_repeated
+#: model:ir.model.fields,field_description:hr_holidays_leave_repeated.field_hr_leave__repeat_end_date
+msgid "Repeat End Date"
+msgstr "Дата завершення повторення"

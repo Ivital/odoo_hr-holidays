@@ -28,3 +28,10 @@ msgstr "Державні свята"
 #: model:ir.ui.menu,name:hr_holidays_public.menu_hr_public_holidays
 msgid "Public Holidays (OCA)"
 msgstr "Державні свята (OCA)"
+
+#. module: hr_holidays_public
+#: model:ir.model.fields,field_description:hr_holidays_public.field_hr_employee__is_public_holiday
+#: model:ir.model.fields,field_description:hr_holidays_public.field_hr_employee_base__is_public_holiday
+#: model:ir.model.fields,field_description:hr_holidays_public.field_hr_employee_public__is_public_holiday
+msgid "Public Holiday Today"
+msgstr "Сьогодні святковий день"
