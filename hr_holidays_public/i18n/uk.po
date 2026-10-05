@@ -35,3 +35,8 @@ msgstr "Державні свята (OCA)"
 #: model:ir.model.fields,field_description:hr_holidays_public.field_hr_employee_public__is_public_holiday
 msgid "Public Holiday Today"
 msgstr "Сьогодні святковий день"
+
+#. module: hr_holidays_public
+#: model:ir.model.fields,field_description:hr_holidays_public.field_hr_leave_type__exclude_public_holidays
+msgid "Exclude Public Holidays"
+msgstr "Виключати державні свята"
