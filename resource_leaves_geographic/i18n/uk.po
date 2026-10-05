@@ -17,3 +17,8 @@ msgstr ""
 #: model:ir.model.fields,field_description:resource_leaves_geographic.field_resource_calendar_leaves__state_ids
 msgid "States"
 msgstr "Штати"
+
+#. module: resource_leaves_geographic
+#: model:ir.model.fields,help:resource_leaves_geographic.field_resource_calendar_leaves__state_ids
+msgid "States for which this leave is applicable"
+msgstr "Стани, для яких застосовується ця відпустка"

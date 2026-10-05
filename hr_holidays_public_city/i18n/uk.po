@@ -17,3 +17,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:hr_holidays_public_city.field_calendar_public_holiday_line__city_ids
 msgid "Related Cities"
 msgstr "Пов’язані міста"
+
+#. module: hr_holidays_public_city
+#: model:ir.model,name:hr_holidays_public_city.model_calendar_public_holiday
+msgid "Calendar Public Holiday"
+msgstr "Державне свято календаря"
+
+#. module: hr_holidays_public_city
+#: model:ir.model,name:hr_holidays_public_city.model_calendar_public_holiday_line
+msgid "Calendar Public Holiday Line"
+msgstr "Рядок державного свята календаря"
