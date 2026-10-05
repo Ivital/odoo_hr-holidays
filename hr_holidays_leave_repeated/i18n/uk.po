@@ -68,3 +68,55 @@ msgstr "Кількість повторів"
 #: model:ir.model.fields,field_description:hr_holidays_leave_repeated.field_hr_leave__repeat_end_date
 msgid "Repeat End Date"
 msgstr "Дата завершення повторення"
+
+#. module: hr_holidays_leave_repeated
+#. odoo-python
+#: code:addons/hr_holidays_leave_repeated/models/hr_leave.py:0
+msgid "Please set a positive amount of repetitions."
+msgstr "Вкажіть додатну кількість повторень."
+
+#. module: hr_holidays_leave_repeated
+#. odoo-python
+#: code:addons/hr_holidays_leave_repeated/models/hr_leave.py:0
+msgid "The Repeat End Date cannot be before the leave."
+msgstr "Дата завершення повторення не може бути раніше відпустки."
+
+#. module: hr_holidays_leave_repeated
+#. odoo-python
+#: code:addons/hr_holidays_leave_repeated/models/hr_leave.py:0
+msgid ""
+"The repetition is based on workdays: the duration of the leave request must "
+"not exceed 1 day."
+msgstr ""
+"Повтор базується на робочих днях: тривалість запиту на відпустку не повинна "
+"перевищувати 1 день."
+
+#. module: hr_holidays_leave_repeated
+#. odoo-python
+#: code:addons/hr_holidays_leave_repeated/models/hr_leave.py:0
+msgid ""
+"The repetition is every four weeks: the duration of the leave request must "
+"not exceed 28 days."
+msgstr ""
+"Повтор кожні чотири тижні: тривалість запиту на відпустку не повинна "
+"перевищувати 28 днів."
+
+#. module: hr_holidays_leave_repeated
+#. odoo-python
+#: code:addons/hr_holidays_leave_repeated/models/hr_leave.py:0
+msgid ""
+"The repetition is every two weeks: the duration of the leave request must "
+"not exceed 2 weeks."
+msgstr ""
+"Повтор кожні два тижні: тривалість запиту на відпустку не повинна "
+"перевищувати 2 тижні."
+
+#. module: hr_holidays_leave_repeated
+#. odoo-python
+#: code:addons/hr_holidays_leave_repeated/models/hr_leave.py:0
+msgid ""
+"The repetition is every week: the duration of the leave request must not "
+"exceed 1 week."
+msgstr ""
+"Повтор щотижневий: тривалість запиту на відпустку не повинна перевищувати 1 "
+"тиждень."
